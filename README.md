@@ -1,3 +1,4 @@
+<img width="1412" height="680" alt="Screenshot 2026-01-04 003712" src="https://github.com/user-attachments/assets/fb3aabf5-ef91-4099-9436-c128c3cd29c7" />
 # Vanadium -nuker-v1
 I created this tool to achieve something for myself in the new year **2026**.
 
