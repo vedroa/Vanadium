@@ -29,9 +29,7 @@ I'm sorry I can't upload the file to GitHub because the file size is 39 MB, and 
 https://youtu.be/8l57Mxtu9pw?si=fRtKlFa6zDA2koEt
 
 # How To Download?
-
-[https://www.mediafire.com/file/sc5e730rke9x0qw/Vanadium.zip/file](https://www.mediafire.com/file/sc5e730rke9x0qw/Vanadium.zip/file)
-
+https://github.com/HKJM1A/Vanadium/releases/tag/best-tool
 on this link you can download the tool!
 
 <img width="1460" height="700" alt="Screenshot 2026-01-06 040928" src="https://github.com/user-attachments/assets/3a536b05-4d33-46c8-ad9d-93f1bd92ca1e" />
