@@ -1,5 +1,5 @@
 
-# Vanadium -nuker-v2
+# Vanadium nuker v2
 I created this tool to achieve something for myself in the new year **2026**.
 
 # Support
